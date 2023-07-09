@@ -155,6 +155,7 @@ nav{
 }
 .service-icon{
     width: 90px;
+    margin-top: 25px;
 }
 
 /* contact container style */
@@ -163,7 +164,7 @@ nav{
     height: 150px;
     background-color: red;
     margin: auto;
-    margin-top: -40px;
+    margin-top: -70px;
     padding: 10px;
     border-radius: 15px;
     display: flex;
@@ -219,7 +220,7 @@ nav{
     border-radius: 10px;
     height: 400px;
     background: white;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 }
 .news-img{
     width: 100%;
