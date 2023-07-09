@@ -219,6 +219,7 @@ nav{
     border-radius: 10px;
     height: 400px;
     background: white;
+    padding-bottom: 10px;
 }
 .news-img{
     width: 100%;
