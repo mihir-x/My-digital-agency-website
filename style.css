@@ -190,3 +190,90 @@ nav{
 .appointment-btn{
     border-radius: 30px;
 }
+
+/* blog and news container */
+.blog-news{
+    height: 100vh;
+    margin-top: 70px;
+    text-align: center;
+}
+.blog-header{
+    font-size: 50px;
+    margin-bottom: 15px;
+}
+.blog-description{
+    font-size: 25px;
+    width: 47%;
+    margin: auto;
+    margin-bottom: 60px;
+}
+.news{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.news-block{
+    width: 25%;
+    box-shadow: 4px 4px 8px gray ;
+    border-radius: 10px;
+    height: 400px;
+    background: white;
+}
+.news-img{
+    width: 100%;
+    border-radius: 10px;
+    padding-bottom: 10px;
+}
+.news-block h1{
+    padding: 15px;
+}
+.news-block p{
+    padding: 10px;
+}
+
+/* footer styles */
+footer{
+    height: 70vh;
+    background-image:url("./asset/image/footer-bg.png"),linear-gradient(rgba(0,0,0,1), rgba(0,0,0,0.9));
+    background-blend-mode: overlay;
+    color: white;
+    padding-left: 150px;
+    padding-right: 150px;
+    text-align: center;
+}
+.footer-container{
+    height: 60vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: left;
+}
+.foot{
+    width: 24%;
+    height: 200px;
+}
+.foot-logo{
+    margin-bottom: 20px;
+    margin-top: -20px;
+}
+.foot h4{
+    font-size: 20px;
+    margin-bottom: 20px;
+    
+}
+.foot p{
+    line-height: 30px;
+}
+.font-awesome{
+    margin-top: 30px;
+}
+.font-awesome i{
+    margin-left: 20px;
+}
+hr{
+    border-top: 1px solid wheat;
+}
+.copyright{
+    margin-top: 20px;
+}
